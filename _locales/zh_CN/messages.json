@@ -1,0 +1,25 @@
+{
+    "appName": {
+        "message": "一次性打开多个标签页",
+        "description": "输入多个链接，方便的一次性在新标签页中全部打开"
+    },
+    "appDesc": {
+        "message": "输入多个链接，方便的一次性在新标签页中全部打开",
+        "description": "方便的一次性打开多个链接"
+    },
+    "explain": {
+        "message": "输入需要打开的链接，一行一条"
+    },
+    "errorMsg": {
+        "message": "内容格式不正确"
+    },
+    "submit": {
+        "message": "全部打开"
+    },
+    "clear": {
+        "message": "清空"
+    },
+    "placeholder": {
+        "message": "输入url"
+    }
+}

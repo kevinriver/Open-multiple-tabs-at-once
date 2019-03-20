@@ -1,0 +1,25 @@
+{
+    "appName": {
+        "message": "Open multiple tabs at once",
+        "description": "Open multiple tabs at once"
+    },
+    "appDesc": {
+        "message": "Open multiple tabs at once",
+        "description": "Open multiple tabs at once"
+    },
+    "explain": {
+        "message": "输入需要打开的链接，一行一条"
+    },
+    "errorMsg": {
+        "message": "内容格式不正确"
+    },
+    "submit": {
+        "message": "Open"
+    },
+    "clear": {
+        "message": "Clear"
+    },
+    "placeholder": {
+        "message": "输入url"
+    }
+}
