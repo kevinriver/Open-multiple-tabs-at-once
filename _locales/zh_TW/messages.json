@@ -1,0 +1,25 @@
+{
+    "appName": {
+        "message": "一次性打開多個標籤頁",
+        "description": "輸入多個鏈接，方便的一次性在新標籤頁中全部打開"
+    },
+    "appDesc": {
+        "message": "輸入多個鏈接，方便的一次性在新標籤頁中全部打開",
+        "description": "方便的一次性打開多個鏈接"
+    },
+    "explain": {
+        "message": "輸入需要打開的鏈接，一行一條"
+    },
+    "errorMsg": {
+        "message": "内容格式不正確"
+    },
+    "submit": {
+        "message": "全部打開"
+    },
+    "clear": {
+        "message": "清空"
+    },
+    "placeholder": {
+        "message": "輸入url"
+    }
+}
