@@ -24,6 +24,5 @@
   "permissions": [
     "tabs",
     "storage"
-  ],
-  "update_url": "https://ap.wlxww.com/js/chrome-extend/mto.xml"
+  ]
 }

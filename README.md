@@ -18,6 +18,9 @@
 
 <a href="mailto:jiangkevin2@gmail.com">jiangkevin2@gmail.com</a>
 
+## 如何获得
+<a href="https://chrome.google.com/webstore/detail/kfielgbmgniffolkphoafgelljpokcii/publish-accepted">chrome store</a>
+
 ## 新功能
 
 有了构思，会慢慢更新上来的，暂时这样了
