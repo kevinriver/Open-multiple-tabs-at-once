@@ -61,3 +61,7 @@ body #app .url-wrapper .form-urls .btn button {
   border-radius: 10px;
   padding: 10px 0;
 }
+
+body #app .prower-by {
+  margin: 5px;
+}

@@ -15,7 +15,8 @@
         </div>
         <div class="url-wrapper">
             <form action="" class="form-urls">
-                <textarea v-bind:class="{ 'error-active': urlEnable === false }" name="urls" v-model="urls" :placeholder="htmlMsg.placeholder" id="" cols="30" rows="10"></textarea>
+                <textarea v-bind:class="{ 'error-active': urlEnable === false }" name="urls" v-model="urls"
+                    :placeholder="htmlMsg.placeholder" id="" cols="30" rows="10"></textarea>
                 <div class="error-msg" v-show="urlEnable === false">
                     <div class="error-icon">
                         <img src="./image/warning.png" alt="">
@@ -27,7 +28,9 @@
                 </div>
             </form>
         </div>
-
+        <div class="prower-by">
+            Powered by <a href="https://jinzhishuo.com/yi-ge-chromexiao-cha-jian-ke-yi-yi-ci-xing-da-kai-duo-ge-biao-qian-ye/" @click="redirect('https://jinzhishuo.com/yi-ge-chromexiao-cha-jian-ke-yi-yi-ci-xing-da-kai-duo-ge-biao-qian-ye/')">jinzhishuo</a>
+        </div>
     </div>
     <script src="js/function.js"></script>
     <script src="js/vue.min.js"></script>

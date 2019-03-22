@@ -31,6 +31,9 @@ var vm = new Vue({
                     }
                 })
             }
+        },
+        redirect(url){
+            chrome.tabs.create({url: url})
         }
     },
     computed: {

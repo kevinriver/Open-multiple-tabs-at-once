@@ -1,25 +1,25 @@
 {
     "appName": {
         "message": "Open multiple tabs at once",
-        "description": "Open multiple tabs at once"
+        "description": "Enter multiple links to easily open all at once in new tabs"
     },
     "appDesc": {
-        "message": "Open multiple tabs at once",
-        "description": "Open multiple tabs at once"
+        "message": "Enter multiple links to easily open all at once in new tabs",
+        "description": "Open multiple links at once conveniently"
     },
     "explain": {
-        "message": "输入需要打开的链接，一行一条"
+        "message": "Enter the link you want to open, one per line"
     },
     "errorMsg": {
-        "message": "内容格式不正确"
+        "message": "The content is not formatted correctly"
     },
     "submit": {
-        "message": "Open"
+        "message": "Open all"
     },
     "clear": {
-        "message": "Clear"
+        "message": "Empty"
     },
     "placeholder": {
-        "message": "输入url"
+        "message": "Enter url"
     }
 }
